@@ -1,0 +1,9 @@
+import{S,i as T,s as q,e as h,t as m,k as A,c,a as L,h as p,d as i,m as E,b as l,L as B,g as f,J as n,K as M}from"../chunks/vendor-0185fd91.js";function F(I){let o,w,d,r,b,y,g,v,_,u,t,k,R;return{c(){o=h("h1"),w=m("Time to celebrate!"),d=A(),r=h("p"),b=m(`As you might know by now we've got married in December 2021 and would now like to celebrate with
+	our friends!`),y=h("br"),g=m(`
+	The party will take place on 10.09.2022 in Marlengo, Italy.`),v=h("br"),_=m(`
+	We are looking to provide some place to sleep for people who aren't too picky and obviously we can
+	help you finding a hotel etc. if you prefer that.`),u=A(),t=h("iframe"),k=m("Loading\u2026"),this.h()},l(e){o=c(e,"H1",{});var a=L(o);w=p(a,"Time to celebrate!"),a.forEach(i),d=E(e),r=c(e,"P",{});var s=L(r);b=p(s,`As you might know by now we've got married in December 2021 and would now like to celebrate with
+	our friends!`),y=c(s,"BR",{}),g=p(s,`
+	The party will take place on 10.09.2022 in Marlengo, Italy.`),v=c(s,"BR",{}),_=p(s,`
+	We are looking to provide some place to sleep for people who aren't too picky and obviously we can
+	help you finding a hotel etc. if you prefer that.`),s.forEach(i),u=E(e),t=c(e,"IFRAME",{title:!0,src:!0,width:!0,height:!0,frameborder:!0,marginheight:!0,marginwidth:!0});var x=L(t);k=p(x,"Loading\u2026"),x.forEach(i),this.h()},h(){l(t,"title","rsvp form"),B(t.src,R="https://docs.google.com/forms/d/e/1FAIpQLSdStoMsW2qctuRamt2IBOjRfctUvGUMLPrGkMhLs2EXZiiVFA/viewform?embedded=true")||l(t,"src",R),l(t,"width","100%"),l(t,"height","1785"),l(t,"frameborder","0"),l(t,"marginheight","0"),l(t,"marginwidth","0")},m(e,a){f(e,o,a),n(o,w),f(e,d,a),f(e,r,a),n(r,b),n(r,y),n(r,g),n(r,v),n(r,_),f(e,u,a),f(e,t,a),n(t,k)},p:M,i:M,o:M,d(e){e&&i(o),e&&i(d),e&&i(r),e&&i(u),e&&i(t)}}}class j extends S{constructor(o){super();T(this,o,null,F,q,{})}}export{j as default};
