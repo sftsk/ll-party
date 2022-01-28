@@ -1,7 +1,7 @@
 import{S as re,i as ne,s as se,e as t,t as i,k as P,c as o,a as u,h,d as r,m as I,f as V,b as _,g as Z,J as e,K as Y}from"../chunks/vendor-f0095a1c.js";function ie(le){let c,d,y,x,E,m,T,k,n,a,S,M,D,q,A,N,W,H,K,F,L,j,z,C,G,w,b,p,J,O,f,Q,U,X;return{c(){c=t("div"),d=t("div"),y=t("h1"),x=i("Time to celebrate!"),E=P(),m=t("h2"),T=i("10.09.2022 \u2013 Marlengo, Italy"),k=P(),n=t("div"),a=t("p"),S=i(`As you might know by now we've got married in December 2021 and it's about time to celebrate
 		with our friends.
 		`),M=t("br"),D=i(`
-		The party will take place on 10.09.2022 in Marlengo, Italy and if the weather goods are with us take
+		The party will take place on 10.09.2022 in Marlengo, Italy and if the weather goods are with us takes
 		place outdoors.`),q=t("br"),A=t("br"),N=i(`
 		We are looking to provide some place to sleep for people who aren't too picky and obviously we can
 		help you find a hotel if you prefer that. Please let us know in the RSVP form.`),W=t("br"),H=i(`
@@ -14,7 +14,7 @@ import{S as re,i as ne,s as se,e as t,t as i,k as P,c as o,a as u,h,d as r,m as 
 		Please click on the following button to fill out our RSVP from. It will make our time a lot easier.`),G=P(),w=t("div"),b=t("a"),p=t("button"),J=i("RSVP"),O=P(),f=t("span"),Q=i("We hope to see many of you!"),U=t("br"),X=i("\u{1F618} Karo + Luki"),this.h()},l(s){c=o(s,"DIV",{class:!0});var v=u(c);d=o(v,"DIV",{class:!0});var R=u(d);y=o(R,"H1",{style:!0});var $=u(y);x=h($,"Time to celebrate!"),$.forEach(r),E=I(R),m=o(R,"H2",{style:!0});var ee=u(m);T=h(ee,"10.09.2022 \u2013 Marlengo, Italy"),ee.forEach(r),R.forEach(r),v.forEach(r),k=I(s),n=o(s,"DIV",{class:!0});var g=u(n);a=o(g,"P",{});var l=u(a);S=h(l,`As you might know by now we've got married in December 2021 and it's about time to celebrate
 		with our friends.
 		`),M=o(l,"BR",{}),D=h(l,`
-		The party will take place on 10.09.2022 in Marlengo, Italy and if the weather goods are with us take
+		The party will take place on 10.09.2022 in Marlengo, Italy and if the weather goods are with us takes
 		place outdoors.`),q=o(l,"BR",{}),A=o(l,"BR",{}),N=h(l,`
 		We are looking to provide some place to sleep for people who aren't too picky and obviously we can
 		help you find a hotel if you prefer that. Please let us know in the RSVP form.`),W=o(l,"BR",{}),H=h(l,`
