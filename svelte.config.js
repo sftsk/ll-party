@@ -11,7 +11,12 @@ const config = {
 		adapter: static_adapter(),
 
 		// hydrate the <div id="svelte"> element in src/app.html
-		target: '#svelte'
+		target: '#svelte',
+		adapter: static_adapter({
+			pages: 'build',
+			assets: 'build',
+			fallback: null
+		})
 	}
 };
 
