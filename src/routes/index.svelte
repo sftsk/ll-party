@@ -9,7 +9,7 @@
 		As you might know by now we've got married in December 2021 and it's about time to celebrate
 		with our friends.
 		<br />
-		The party will take place on 10.09.2022 in Marlengo, Italy and if the weather goods are with us take
+		The party will take place on 10.09.2022 in Marlengo, Italy and if the weather goods are with us takes
 		place outdoors.<br /><br />
 		We are looking to provide some place to sleep for people who aren't too picky and obviously we can
 		help you find a hotel if you prefer that. Please let us know in the RSVP form.<br />
