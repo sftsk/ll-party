@@ -30,7 +30,7 @@
 
 <style>
 	.hero {
-		background: url(l+l.jpg) no-repeat;
+		background: url(/l+l.jpg) no-repeat;
 		background-size: cover;
 		background-position: 40% 55%;
 		height: 72vh;
