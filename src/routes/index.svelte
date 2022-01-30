@@ -14,18 +14,21 @@
 		We are looking to provide some place to sleep for people who aren't too picky and obviously we can
 		help you find a hotel if you prefer that. Please let us know in the RSVP form.<br />
 		The easiest way to get there from Finland is to fly to Munich or Milan and take a rental car, train
-		or bus. When it's clearer who will come we can try to plan something together as much as possible.<br
+		or bus. When it's clearer who will come we'll try to organise something together as much as possible.<br
 		/><br />
 		There will be food, music and hopefully loads of fun. Bring your dancing shoes and dress however
-		you want!<br /><b>No need for presents!</b> If you really insist we are happy with a little
+		you want.<br /><b>No need for presents!</b> If you really insist we are happy with a little
 		something towards our honeymoon: <i>FI96 5720 9920 1544 80</i>
 		<br /><br />
-		Please click on the following button to fill out our RSVP from. It will make our time a lot easier.
+		Please click on the following button to fill out our RSVP from. It will make our time a lot easier
+		🙏
 	</p>
 	<div style="text-align: center;">
 		<a href="https://forms.gle/nH4cDQyP48qGVZXw5"><button type="button">RSVP</button></a>
 	</div>
-	<span style="font-size: 1.6rem">We hope to see many of you!<br />😘 Karo + Luki</span>
+	<p style="font-size: 1.6rem">
+		We hope to see many of you!<br />😘 Karo + Luki
+	</p>
 </div>
 
 <style>
@@ -68,7 +71,7 @@
 	}
 	@media only screen and (max-width: 1024px) {
 		.container {
-			width: 100vw;
+			max-width: 100vw;
 		}
 	}
 
@@ -77,12 +80,12 @@
 			height: 42vh;
 		}
 		.hero-text {
-			left: 12px;
-			bottom: 12px;
+			left: 24px;
+			bottom: 24px;
 			font-size: 1rem;
 		}
 		.container {
-			padding: 0 12px;
+			padding: 0 24px;
 		}
 	}
 </style>
