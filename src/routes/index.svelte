@@ -5,6 +5,16 @@
 	</div>
 </div>
 <div class="container">
+	<div class="info-box">
+		<h3 style="margin-top: 4px">Key information:</h3>
+		<ul>
+			<li>The party starts at 14:00 in Vicolo San Felice 20/1, 39020 Marlengo</li>
+			<li>If you come by car please let us know as parking is limited</li>
+			<li>Party will hopfeully take place outdoors</li>
+			<li>No need to dress up too elegantly, let's have fun</li>
+			<li>Bring some warmer clothes as it might get cold during the evening</li>
+		</ul>
+	</div>
 	<p>
 		As you might know by now we've got married in December 2021 and it's about time to celebrate
 		with our friends.
@@ -52,6 +62,11 @@
 		font-size: 1.5rem;
 		line-height: 1.5;
 		max-width: 70vw;
+	}
+	.info-box {
+		background-color: #f7ecde;
+		padding: 5px 20px 0px;
+		border: 2px solid #e9dac1;
 	}
 
 	button {
